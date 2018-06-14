@@ -1,0 +1,80 @@
+h1{
+  color:#26547C;
+}
+p{
+font-family: 'Slabo 27px', serif;
+}
+}
+ul{font-family: 'Slabo 27px', serif;
+}
+.menu ul{
+  list-style-type: none;
+  display: inline-flex;
+}
+.menu li{ padding:20px}
+.menu a{ text-decoration: none;}
+.menu a:hover{ text-decoration: underline;}
+a:visited {color: #D8E2DC;}
+.menu{ background-color:#46B1C9}
+.Tuts{color: black}
+.Tuts a:visited{color: black}
+.macaron {
+
+  background-image:url("5471190091_404f6ba72b_b.jpg");}
+
+.macaron {width:400px;
+height:400px;
+font-size: 50px;
+text-align: center;
+padding:100px;
+
+}
+.cheesecake{width:400px;
+height:400px;
+font-size: 50px;
+text-align: center;
+background-image:url("2627068290_920484d880_b.jpg");
+text-align: center;
+padding:50px;}
+.creme {width:400px;
+height:400px;
+font-size: 50px;
+text-align: center;
+text-align: center;
+padding:100px;
+background-image:url("waffles-1760796_960_720.jpg")}
+.banana {width:400px;
+height:400px;
+font-size: 50px;
+text-align: center
+text-align: center;
+padding:100px;
+background-image:url("Walnut-Bourbon_Banana_Bread_loaves..jpg");
+}
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
+a{border-color: #DEF4C6}
+.body{background-color: #DEF4C6}
+.chall a:visited{color:#7FC6A4}
+.chall{color:#7FC6A4}
+.coconut {width:400px;
+height:400px;
+font-size: 50px;
+text-align: center
+text-align: center;
+padding:100px;
+background-image:url("cake.JPG");
+}
+.cake {width:400px;
+height:400px;
+font-size: 50px;
+text-align: center
+text-align: center;
+padding:100px;
+background-image:url("pound_cake.jpg");
+}
